@@ -1,7 +1,3 @@
-Here’s a **README.md** tailored for your **DM project** (*Analysis on Preferred Streaming Platforms Based on Viewer Demographics and Genre Preferences: A KDD Approach*).
-
----
-
 # 🎬 Streaming Platform Analysis (KDD Approach)
 
 ## 📌 Overview
@@ -86,8 +82,3 @@ Streaming-Platform-Analysis/
 Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
 
 ---
-
-
-
-
-👉 Do you also want me to create a **requirements.txt** (listing Orange, SQL Server, etc.) and a **sample SQL + MDX query folder structure** for GitHub? That way your repo will look professional and complete.
